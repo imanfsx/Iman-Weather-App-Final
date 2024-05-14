@@ -1,5 +1,5 @@
 body {
-  background-color: #f3aab5;
+  background-color: #c86b85;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -12,7 +12,7 @@ header {
 }
 
 a {
-  color: #f3aab5;
+  color: #e6a4b4;
 }
 
 .weatherapp {
@@ -34,7 +34,7 @@ a {
 }
 
 .search-form-button {
-  background-color: #f3aab5;
+  background-color: #e6a4b4;
   padding: 15px 30px;
   border: none;
   border-radius: 6px;
